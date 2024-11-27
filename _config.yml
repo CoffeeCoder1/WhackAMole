@@ -4,3 +4,9 @@ theme: just-the-docs
 
 url: https://meepleBot.github.io/WhackAMole
 
+# GitHub edit link
+gh_edit_link: true
+gh_edit_link_text: "Edit this page on GitHub"
+gh_edit_repository: "https://github.com/meepleBot/WhackAMole" # Repo URL
+gh_edit_branch: "main"
+gh_edit_view_mode: "tree"
